@@ -1,2 +1,7 @@
 # Embedded-Projects
-this repository contains my embedded systems projects
+This repository contains the projects that i worked on embedded systems
+
+
+
+  
+
